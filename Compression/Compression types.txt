@@ -1,0 +1,3 @@
+RLE
+Huffman
+LZW
