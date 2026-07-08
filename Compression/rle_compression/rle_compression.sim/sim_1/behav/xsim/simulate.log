@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+Read 5 characters from input.txt
+Run emitted -> char='a' count=5
+Done. Compressed result written to output.txt
+$finish called at time : 125 ns : File "D:/SoI-BeyondBits/SOI-BeyondBitsX/Compression/rle_compression/rle_compression.srcs/sim_1/new/tb_rle_top.v" Line 165

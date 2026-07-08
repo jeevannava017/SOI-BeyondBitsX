@@ -1,0 +1,7 @@
+Running: xsim.dir/rle_top_behav/xsimk.exe -simmode gui -wdb rle_top_behav.wdb -simrunnum 0 -socket 51440
+Design successfully loaded
+Design Loading Memory Usage: 11344 KB (Peak: 11344 KB)
+Design Loading CPU Usage: 46 ms
+Simulation completed
+Simulation Memory Usage: 12508 KB (Peak: 12508 KB)
+Simulation CPU Usage: 109 ms
